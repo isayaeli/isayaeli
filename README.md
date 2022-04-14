@@ -12,4 +12,7 @@
 ### You Can Reach Me Through
     -isayaelib@gmail.com
     
+
+
+![isayaelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=isayaeli&show_icons=true&theme=radical)]
   
