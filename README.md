@@ -22,7 +22,7 @@
 
 ### Github Stats
 ![isayaelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=isayaeli&show_icons=true&theme=radical)
-![isayaelis's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=isayaeli-developer&country_code=Tanzania&theme=dark)
+
 
 
 
