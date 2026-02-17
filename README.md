@@ -16,7 +16,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Apache_Camel_logo.svg" 
 <img height="32" width="32" 
 src="https://upload.wikimedia.org/wikipedia/commons/0/08/WSO2_logo.svg" />
 <img height="32" width="32" 
-src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Gravitee_Logo.svg" />
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gravitee_Logo.svg/1024px-Gravitee_Logo.svg.png" />
+
 
 
 
