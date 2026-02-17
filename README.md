@@ -11,29 +11,15 @@
 src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 <img height="32" width="32" 
 src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" />
-<img height="32" width="32"
-src="https://cdn.simpleicons.org/apachecamel" />
-<img height="32" width="32" 
-src="https://upload.wikimedia.org/wikipedia/commons/0/08/WSO2_logo.svg" />
-<img height="32" width="32" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gravitee_Logo.svg/1024px-Gravitee_Logo.svg.png" />
 
 
 
 
 
 ### You Can Reach Me Through
-[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" />][twitter]   [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]  [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-
-
-   
-    
-
-### Github Stats
-![isayaelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=isayaeli&show_icons=true&theme=radical)
-
-
-
+<img height="32" width="32"
+src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89d5.svg" />
+   [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]  [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 
 [twitter]:https://twitter.com/IsayaEli
