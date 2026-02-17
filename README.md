@@ -18,7 +18,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" />
 
 ### You Can Reach Me Through
 <img height="32" width="32"
-src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89d5.svg" />
+src="https://cdn.simpleicons.org/x" />
    [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]  [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 
