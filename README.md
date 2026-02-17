@@ -11,8 +11,8 @@
 src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 <img height="32" width="32" 
 src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" />
-<img height="32" width="32" 
-src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Apache_Camel_logo.svg" />
+<img height="32" width="32"
+src="https://camel.apache.org/img/logo-d.svg" />
 <img height="32" width="32" 
 src="https://upload.wikimedia.org/wikipedia/commons/0/08/WSO2_logo.svg" />
 <img height="32" width="32" 
