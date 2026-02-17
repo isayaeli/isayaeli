@@ -17,12 +17,11 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" />
 
 
 ### You Can Reach Me Through
-<img height="32" width="32"
-src="https://cdn.simpleicons.org/x" />
+[<img height="32" width="32" src="https://cdn.simpleicons.org/x" />][x]
    [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]  [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 
-[twitter]:https://twitter.com/IsayaEli
+[x]:https://twitter.com/IsayaEli
 [linkedin]:https://www.linkedin.com/in/isaya-bendera-54b561190/
 [instagram]:https://www.instagram.com/slim_squid/
   
