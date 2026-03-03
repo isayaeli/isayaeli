@@ -2,7 +2,7 @@
 
 ### About Me      
 
-    - A certified integration developer WSO2 and Apache Camel and Gravitee, 
+    - A certified integration developer WSO2 and Apache Camel and Gravitee
     - Software Engineer for both Web and Mobile
     - I love creating positive impact for my community through technology
     
